@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# Datos pesados o sensibles
+data/raw/
+*.pbix.bak
+.env
