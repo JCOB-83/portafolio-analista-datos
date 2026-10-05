@@ -1,0 +1,3 @@
+- **Qué instalé:** Git, VS Code, PostgreSQL y DBeaver.
+- **Qué me costó:** entender que la carpeta .git está oculta y dónde crear el .gitignore.
+- **Qué haré mañana:** empezar el Sprint 1 y subir mi primer entregable al repo.
